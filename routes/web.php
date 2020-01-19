@@ -23,4 +23,6 @@ Route::get('/help', "HomeController@help");
 
 Route::prefix('/admin')->group(function(){
     Route::get('/',"Admin\AdminController@dashboard");
+    Route::get('/users',"Admin\UserController@index");
+
 });
