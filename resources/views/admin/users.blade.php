@@ -9,7 +9,7 @@
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    รายการผู้ใช้งาน
+                                    รายการผู้
                                     <span class="float-right"><a href="../user/create.html" class="btn btn-sm btn-primary"><i
                                                 class="fa fa-plus"></i> เพิ่ม</a></span>
                                 </div>
